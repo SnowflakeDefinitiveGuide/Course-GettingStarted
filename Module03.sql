@@ -3,8 +3,6 @@
 /* MODULE 3 */ /* NO CODE */
 /* OBJECTIVE: Create Virtual Warehouse in the Web UI */
 
-Basic_WH
-MCluster_WH
 
 /* EXERCISE: Confirm the role being used is the ACCOUNTADMIN role */
 
